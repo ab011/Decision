@@ -1,0 +1,20 @@
+filter1,filter2,filter3,filter4,filter5
+OG,BU,Country,Category,Master Brand
+OG,BU,Country,Category,Cat
+OG,BU,Country,,
+OG,BU,,,
+OG,,,,
+OG,Country,BU,,
+Category,Master Brand,IC/FC,Brand,OG
+Category,Master Brand,Brand,IC/FC,OG
+OG,BU,IC/FC,Brand,Master Brand
+Master Brand,,,,
+OG,,,,
+BU,,,,
+Country,,,,
+Category,,,,
+Brand,,,,
+IC/FC,,,,
+Country,Brand,,,
+IC/FC,Brand,OG,BU,Country
+IC/FC,,,,
